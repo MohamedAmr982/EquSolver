@@ -35,7 +35,7 @@ a program to solve linear equations and to find the root of polynomial equations
 ![doolittle](images/doolittle.png)
 ![Cholsky](images/cholsky.png)
 ![crout](images/crout.png)
-![gauss sidel](images/gauss seidel.png)
+![gauss sidel](images/'gauss seidel.png')
 ![jacobi](images/jacobi.png)
 ![results](images/results.png)
 ### Root Finder
